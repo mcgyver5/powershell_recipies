@@ -2,7 +2,7 @@
 A collection of powershell scripts organized by category.  Menu Below
 
 # powershell file types
-.ps1xml   configuration files  (version 5.1 and older)
+.ps1xml   configuration files
 .psm1     module files
 .ps1      powershell scripts
 
